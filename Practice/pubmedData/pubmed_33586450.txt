@@ -1,0 +1,30 @@
+Blood Pressure Effects of Sodium Reduction: Dose-Response Meta-Analysis of Experimental Studies
+Tommaso Filippini 1, Marcella Malavolti 1, Paul K Whelton 2, Androniki Naska 3, Nicola Orsini 4, Marco Vinceti 5
+Affiliations Expand
+PMID: 33586450
+
+Abstract
+Background: The relationship between dietary sodium intake and blood pressure (BP) has been tested in clinical trials and nonexperimental human studies, indicating a direct association. The exact shape of the dose-response relationship has been difficult to assess in clinical trials because of the lack of random-effects dose-response statistical models that can include 2-arm comparisons.
+
+Methods: After performing a comprehensive literature search for experimental studies that investigated the BP effects of changes in dietary sodium intake, we conducted a dose-response meta-analysis using the new 1-stage cubic spline mixed-effects model. We included trials with at least 4 weeks of follow-up; 24-hour urinary sodium excretion measurements; sodium manipulation through dietary change or supplementation, or both; and measurements of systolic and diastolic BP at the beginning and end of treatment.
+
+Results: We identified 85 eligible trials with sodium intake ranging from 0.4 to 7.6 g/d and follow-up from 4 weeks to 36 months. The trials were conducted in participants with hypertension (n=65), without hypertension (n=11), or a combination (n=9). Overall, the pooled data were compatible with an approximately linear relationship between achieved sodium intake and mean systolic as well as diastolic BP, with no indication of a flattening of the curve at either the lowest or highest levels of sodium exposure. Results were similar for participants with or without hypertension, but the former group showed a steeper decrease in BP after sodium reduction. Intervention duration (≥12 weeks versus 4 to 11 weeks), type of study design (parallel or crossover), use of antihypertensive medication, and participants' sex had little influence on the BP effects of sodium reduction. Additional analyses based on the BP effect of difference in sodium exposure between study arms at the end of the trial confirmed the results on the basis of achieved sodium intake.
+
+
+Diastolic BP For Male:
+Diastolic BP Below 60mm hg - Low - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg.
+Diastolic BP between 60mm hg to 80mm hg - Normal - Maintaining a normal diastolic BP is important for ensuring adequate blood flow to organs during relaxation phases of the heart.- Lifestyle factors such as diet, exercise, and stress management play a key role in maintaining normal diastolic blood pressure levels
+Diastolic BP between 80mm hg to 90 mm hg - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg. - Stage 1 hypertension. You have symptoms of hypotension (like dizziness, fainting or nausea)
+Diastolic BP between 90mm hg to 110 mm hg - Stage 2 hypertension -Stage II hypertension: Systolic at least 140 or diastolic at least 90. Your doctor will recommend lifestyle changes and consider medication to lower your blood pressure.
+Diastolic BP greater than 120mm hg - Hypertensive crisis (urgency or emergency)- You think you’re having a hypertensive crisis: This means your top number is 180 or higher and/or your bottom number is 120 or higher. You may also have other symptoms like shortness of breath, headache, chest pain or blurry vision.
+
+Diastolic BP For Female:
+Diastolic BP Below 60mm hg - Low - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg.
+Diastolic BP between 60mm hg to 80mm hg - Normal - Maintaining a normal diastolic BP is important for ensuring adequate blood flow to organs during relaxation phases of the heart.- Lifestyle factors such as diet, exercise, and stress management play a key role in maintaining normal diastolic blood pressure levels
+Diastolic BP between 80mm hg to 90 mm hg - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg. - Stage 1 hypertension. You have symptoms of hypotension (like dizziness, fainting or nausea)
+Diastolic BP between 90mm hg to 110 mm hg - Stage 2 hypertension -Stage II hypertension: Systolic at least 140 or diastolic at least 90. Your doctor will recommend lifestyle changes and consider medication to lower your blood pressure.
+Diastolic BP greater than 120mm hg - Hypertensive crisis (urgency or emergency)- You think you’re having a hypertensive crisis: This means your top number is 180 or higher and/or your bottom number is 120 or higher. You may also have other symptoms like shortness of breath, headache, chest pain or blurry vision.
+
+
+
+Conclusions: In this dose-response analysis of sodium reduction in clinical trials, we identified an approximately linear relationship between sodium intake and reduction in both systolic and diastolic BP across the entire range of dietary sodium exposure. Although this occurred independently of baseline BP, the effect of sodium reduction on level of BP was more pronounced in participants with a higher BP level.
