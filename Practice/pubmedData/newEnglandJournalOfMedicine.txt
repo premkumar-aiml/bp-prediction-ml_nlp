@@ -1,18 +1,5 @@
 Effect of Systolic and Diastolic Blood Pressure on Cardiovascular Outcomes
 Authors: Alexander C. Flint, M.D., Ph.D. https://orcid.org/0000-0002-3721-2694, Carol Conell, Ph.D., Xiushui Ren, M.D., Nader M. Banki, M.D., Sheila L. Chan, M.D., Vivek A. Rao, M.D., Ronald B. Melles, M.D., and Deepak L. Bhatt, M.D., M.P.H. https://orcid.org/0000-0002-1278-6245Author Info & Affiliations
-Published July 17, 2019
-N Engl J Med 2019;381:243-251
-DOI: 10.1056/NEJMoa1803180
-VOL. 381 NO. 3
-Copyright © 2019
-
-Information & Authors
-Metrics & Citations
-View Options
-References
-Media
-Tables
-Share
 Abstract
 Background
 The relationship between outpatient systolic and diastolic blood pressure and cardiovascular outcomes remains unclear and has been complicated by recently revised guidelines with two different thresholds (≥140/90 mm Hg and ≥130/80 mm Hg) for treating hypertension.
@@ -67,6 +54,19 @@ Similar relationships between systolic and diastolic hypertension and adverse ou
 At both thresholds, the burden of isolated diastolic hypertension was also associated with the composite outcome among participants who did not have a burden of systolic hypertension. In study participants with an average systolic blood pressure below 140 mm Hg, a diastolic hypertension burden of at least 90 mm Hg predicted a composite outcome event (hazard ratio per unit increase in z score, 1.66; 95% CI, 1.53 to 1.79; P<0.001), and in participants with an average systolic blood pressure below 130 mm Hg, a diastolic hypertension burden of at least 80 mm Hg also predicted a composite outcome event (hazard ratio per unit increase in z score, 1.52; 95% CI, 1.03 to 2.23; P=0.03).
 Systolic hypertension had a greater effect at lower diastolic blood pressures. Systolic hypertension of at least 140 mm Hg had a greater effect on adverse outcomes among participants in the lowest quartile of diastolic blood pressure (hazard ratio per unit increase in z score, 1.21; 95% CI, 1.20 to 1.23; P<0.001) than it did among participants in the highest quartile of diastolic blood pressure (hazard ratio per unit increase in z score, 1.16; 95% CI, 1.15 to 1.17; P<0.001). Similar results were obtained with regard to systolic hypertension of at least 130 mm Hg (hazard ratio per unit increase in z score, 1.25; 95% CI, 1.23 to 1.27; P<0.001; vs. 1.11; 95% CI, 1.09 to 1.12; P<0.001) (Fig. S10 in the Supplementary Appendix).
 We used a logistic-regression model to estimate the risk of myocardial infarction, ischemic stroke, or hemorrhagic stroke across a range of systolic and diastolic blood pressures (Figure 4). Participants with a weighted average systolic blood pressure of approximately 160 mm Hg (z score, +3) had a predicted risk of a composite outcome event at 8 years of 4.8%, whereas those with a systolic blood pressure of approximately 136 mm Hg (z score, +1) had a predicted risk of 1.9%. Participants with a diastolic blood pressure of approximately 96 mm Hg (z score, +3) had a predicted risk of the composite outcome of 3.6%, whereas those with a diastolic blood pressure of approximately 81 mm Hg (z score, +1) had a predicted risk of 1.9%.
+Diastolic BP For Male:
+Diastolic BP around 60mm hg - Low - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg.
+Diastolic BP around 60mm hg to 80mm hg - Normal - Maintaining a normal diastolic BP is important for ensuring adequate blood flow to organs during relaxation phases of the heart.- Lifestyle factors such as diet, exercise, and stress management play a key role in maintaining normal diastolic blood pressure levels
+Diastolic BP around 80mm hg to 90 mm hg - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg. - Stage 1 hypertension. You have symptoms of hypotension (like dizziness, fainting or nausea)
+Diastolic BP around 90mm hg to 110 mm hg - Stage 2 hypertension -Stage II hypertension: Systolic at least 140 or diastolic at least 90. Your doctor will recommend lifestyle changes and consider medication to lower your blood pressure.
+Diastolic BP around than 120mm hg - Hypertensive crisis (urgency or emergency)- You think you’re having a hypertensive crisis: This means your top number is 180 or higher and/or your bottom number is 120 or higher. You may also have other symptoms like shortness of breath, headache, chest pain or blurry vision.
+
+Diastolic BP For Female:
+Diastolic BP around 60mm hg - Low - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg.
+Diastolic BP around 60mm hg to 80mm hg - Normal - Maintaining a normal diastolic BP is important for ensuring adequate blood flow to organs during relaxation phases of the heart.- Lifestyle factors such as diet, exercise, and stress management play a key role in maintaining normal diastolic blood pressure levels
+Diastolic BP around 80mm hg to 90 mm hg - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg. - Stage 1 hypertension. You have symptoms of hypotension (like dizziness, fainting or nausea)
+Diastolic BP around 90mm hg to 110 mm hg - Stage 2 hypertension -Stage II hypertension: Systolic at least 140 or diastolic at least 90. Your doctor will recommend lifestyle changes and consider medication to lower your blood pressure.
+Diastolic BP around than 120mm hg - Hypertensive crisis (urgency or emergency)- You think you’re having a hypertensive crisis: This means your top number is 180 or higher and/or your bottom number is 120 or higher. You may also have other symptoms like shortness of breath, headache, chest pain or blurry vision.
 
 
 Discussion

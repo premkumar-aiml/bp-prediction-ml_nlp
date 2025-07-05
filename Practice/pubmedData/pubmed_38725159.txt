@@ -1,23 +1,15 @@
-Observational studies have suggested that the use of antihypertensive drugs was associated with the risk of frailty; however, these findings may be biased by confounding and reverse causality. This study aimed to explore the effect of genetically predicted lifelong lowering blood pressure (BP) through different antihypertensive medications on frailty. One-sample Mendelian randomization (MR) and summary data-based MR (SMR) were applied. We utilized two kinds of genetic instruments to proxy the antihypertensive medications, including genetic variants within or nearby drugs target genes associated with systolic/diastolic BP, and expression level of the corresponding gene. Among 298,618 UK Biobank participants, one-sample MR analysis observed that genetically proxied BB use (relative risk ratios, 0.76; 95% CI, 0.65-0.90; p = 0.001) and CCB use (0.83; 0.72-0.95; p = 0.007), equivalent to a 10-mm Hg reduction in systolic BP, was significantly associated with lower risk of pre-frailty. In addition, although not statistically significant, the effect directions of systolic BP through ACEi variants (0.72; 0.39-1.33; p = 0.296) or thiazides variants (0.74; 0.53-1.03; p = 0.072) on pre-frailty were also protective. Similar results were obtained in analyses for diastolic BP. SMR of expression in artery showed that decreased expression level of KCNH2, a target gene of BBs, was associated with lower frailty index (beta -0.02, p = 2.87 × 10-4). This MR analysis found evidence that the use of BBs and CCBs was potentially associated with reduced frailty risk in the general population, and identified KCNH2 as a promising target for further clinical trials to prevent manifestations of frailty.
-
-Keywords: Mendelian randomization; antihypertensive medication; causality; frailty.
-
-© 2024 The Authors. Aging Cell published by Anatomical Society and John Wiley & Sons Ltd.
-
-PubMed Disclaimer
-
-Conflict of interest statement
-All authors declare no support from companies for the submitted work; no relationships with companies that might have an interest in the submitted work in the previous 3 years; no spouses, partners, or children have financial relationships that may be relevant to the submitted work; and no nonfinancial interests that may be relevant to the submitted work.
-
-
-Background: High blood pressure (BP) is a major contributor to mortality and cardiovascular diseases. Despite the known benefits of exercise for reducing BP, it is crucial to identify the most effective physical activity (PA) intervention. This systematic review and network meta-analysis (NMA) aimed to evaluate the available evidence on the effectiveness of various PA interventions for reducing BP and to determine their hierarchy based on their impact on BP.
-
-Methods: A search of PubMed, SPORTDiscus, PsycINFO, Web of Science, CINAHL, Cochrane, and Eric databases was conducted up to December 2022 for this systematic review and NMA. Randomized controlled trials and quasi-experimental studies targeting healthy children and adolescents aged 6-12 years old were included in this study. Only studies that compared controlled and intervention groups using PA or exercise as the major influence were included. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Three independent investigators performed the literature screening, data extraction, and risk of bias assessment. We used Bayesian arm-based NMA to synthesize the data. The primary outcomes were systolic BP and diastolic BP. We calculated the mean differences (MDs) in systolic BP and diastolic BP before and after treatment. Mean treatment differences were estimated using NMA and random-effect models.
-
-Results: We synthesized 27 studies involving 15,220 children and adolescents. PA combined with nutrition and behavior change was the most effective intervention for reducing both systolic BP and diastolic BP (MD = -8.64, 95% credible interval (95%CI):-11.44 to -5.84; MD = -6.75, 95%CI: -10.44 to -3.11), followed by interventions with multiple components (MD = -1.39, 95%CI: -1.94 to -0.84; MD = -2.54, 95%CI: -4.89 to -0.29).
-
-Conclusion: Our findings suggest that PA interventions incorporating nutrition and behavior change, followed by interventions with multiple components, are most effective for reducing both systolic BP and diastolic BP in children and adolescents.
-
-Keywords: Children; Diastolic blood pressure; Physical activity; Systolic blood pressure.
-
-Copyright © 2024. Production and hosting by Elsevier B.V.
+High diastolic blood pressure, the lower number in a blood pressure reading, can significantly increase the risk of cardiovascular disease. It indicates increased pressure in the arteries when the heart is resting between beats, and this sustained pressure can damage blood vessels and impair heart function. This damage can lead to a range of cardiovascular issues, including heart attack, stroke, and heart failure.
+Here's a more detailed explanation:
+What is Diastolic Blood Pressure?
+Diastolic blood pressure is the measurement of the pressure in your arteries when your heart muscle is resting between beats. It's the bottom number in a blood pressure reading (e.g., 120/80 mmHg).
+How Diastolic Hypertension Affects Cardiovascular Health
+Increased Risk of Heart Attack and Stroke:
+High diastolic blood pressure can damage blood vessels, including those supplying the heart and brain, increasing the risk of blockages and subsequent heart attacks and strokes.
+Heart Failure:
+Sustained high diastolic pressure can put extra strain on the heart, leading to heart failure, particularly diastolic heart failure, where the heart muscle becomes stiff and can't fill properly.
+Aortic Aneurysm:
+High diastolic pressure can weaken the walls of the aorta, the main artery carrying blood from the heart, increasing the risk of aortic aneurysms (bulges in the artery wall).
+Coronary Artery Disease:
+Diastolic dysfunction, often associated with high diastolic pressure, can reduce blood flow to the heart muscle, contributing to coronary artery disease.
+Why is it Important to Manage Diastolic Blood Pressure?
+Managing diastolic blood pressure is crucial for preventing and controlling cardiovascular disease. Lifestyle changes, such as adopting a healthy diet, exercising regularly, and managing stress, can help lower diastolic blood pressure. In some cases, medication may be necessary to control blood pressure and reduce the risk of cardiovascular complications.

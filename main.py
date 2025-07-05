@@ -3,6 +3,7 @@ from diastolic_predection import predict_diastolic_bp
 
 # 1. Predict the diastolic BP from user input
 predicted_dbp,age, gender = predict_diastolic_bp()
+print("Retrieving clinical guidelines based on your predicted diastolic BP, age, and gender. This may take a few seconds...")
 
 # Load your local PubMed documents
 text_folder_path = "E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\pubmedData"

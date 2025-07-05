@@ -7,7 +7,7 @@ Maintaining healthy blood pressure is essential, as readings outside the normal 
 The blood pressure that doctors consider normal changes throughout a person’s life. But what is the normal blood pressure by age? This article answers that question and provides information on gender differences in normal blood pressure.
 
 What Is Normal Blood Pressure Level by Age?
-Normal blood pressure is, in part, a function of age, with multiple levels from newborns through older adults. What is the ideal blood pressure by age? The charts below have the details.
+Normal blood pressure is, in part, a function of age, with multiple levels from newborns through older adults. What is the ideal blood pressure by age?
 
 Age Group	Systolic (mm Hg)	Diastolic (mm Hg)
 Newborns (up to 1 month)	60–90	20–60
@@ -27,7 +27,7 @@ Age Group	Gender	Normal Blood Pressure (mm Hg)
 60+	Female	139/68
 60+	Male	133/69
 
-Beyond the averages in the blood pressure chart by age and gender above, adult blood pressure falls into one of five categories:
+Beyond the averages in the blood pressure by age and gender above, adult blood pressure falls into one of five categories:
 
 Category	Blood Pressure (mm Hg)
 Normal	<120/<80
@@ -51,7 +51,7 @@ It’s common for people to focus on the systolic number in a blood pressure rea
 
 So, is 140 over 70 a good blood pressure? No, because the 140 figure indicates high blood pressure. How about 119 over 90? Again, no. The 119 figure is in the normal range, but 90 is higher than recommended. In other words, a normal systolic blood pressure with an elevated diastolic is still considered hypertension.
 
-What is an alarming diastolic number? As the chart above notes, a diastolic blood pressure higher than 180/120 is considered a hypertensive crisis. It requires immediate medical attention.
+A diastolic blood pressure higher than 180/120 is considered a hypertensive crisis. It requires immediate medical attention.
 
 Lower... But Not Too Low
 The challenge with blood pressure typically is bringing it down into the normal range. However, it’s crucial to understand that blood pressure can be too low.
@@ -73,3 +73,17 @@ Put the blood pressure cuff over bare skin.
 Don’t talk or move as the cuff is working.
 Take one reading, leave the cuff on, and stay still, then take a second. If the readings are similar, average them. If not, take a third reading and average the three.
 Record the average reading, along with the time of day.
+
+Diastolic BP For Male:
+Diastolic BP around 60mm hg - Low - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg.
+Diastolic BP around 60mm hg to 80mm hg - Normal - Maintaining a normal diastolic BP is important for ensuring adequate blood flow to organs during relaxation phases of the heart.- Lifestyle factors such as diet, exercise, and stress management play a key role in maintaining normal diastolic blood pressure levels
+Diastolic BP around 80mm hg to 90 mm hg - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg. - Stage 1 hypertension. You have symptoms of hypotension (like dizziness, fainting or nausea)
+Diastolic BP around 90mm hg to 110 mm hg - Stage 2 hypertension -Stage II hypertension: Systolic at least 140 or diastolic at least 90. Your doctor will recommend lifestyle changes and consider medication to lower your blood pressure.
+Diastolic BP around than 120mm hg - Hypertensive crisis (urgency or emergency)- You think you’re having a hypertensive crisis: This means your top number is 180 or higher and/or your bottom number is 120 or higher. You may also have other symptoms like shortness of breath, headache, chest pain or blurry vision.
+
+Diastolic BP For Female:
+Diastolic BP around 60mm hg - Low - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg.
+Diastolic BP around 60mm hg to 80mm hg - Normal - Maintaining a normal diastolic BP is important for ensuring adequate blood flow to organs during relaxation phases of the heart.- Lifestyle factors such as diet, exercise, and stress management play a key role in maintaining normal diastolic blood pressure levels
+Diastolic BP around 80mm hg to 90 mm hg - An ideal blood pressure for most adults is lower than 120/80 mm Hg (millimeters of mercury). This means your systolic (top) number is below 120 and your diastolic (bottom) number is below 80. But blood pressure that’s too low may be a cause for concern. Hypotension is blood pressure below 90/60 mm Hg. - Stage 1 hypertension. You have symptoms of hypotension (like dizziness, fainting or nausea)
+Diastolic BP around 90mm hg to 110 mm hg - Stage 2 hypertension -Stage II hypertension: Systolic at least 140 or diastolic at least 90. Your doctor will recommend lifestyle changes and consider medication to lower your blood pressure.
+Diastolic BP around than 120mm hg - Hypertensive crisis (urgency or emergency)- You think you’re having a hypertensive crisis: This means your top number is 180 or higher and/or your bottom number is 120 or higher. You may also have other symptoms like shortness of breath, headache, chest pain or blurry vision.
