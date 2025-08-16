@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-patient_data = pd.read_csv('E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\kaggle_Data\\framingham_heart_study.csv')
+patient_data = pd.read_csv('E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\kaggle_Data\\framingham_heart_study_updated.csv')
 # Print the patient_data to get more details
 print(patient_data.shape)
 for column in patient_data.columns:
@@ -62,4 +62,4 @@ plt.show()
 final_patientData['cigsPerDay'] = final_patientData['cigsPerDay'].astype(int)
 print(final_patientData.head())
 
-final_patientData.to_csv('E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\kaggle_Data\\processed_data_blood_pressure.csv')
+final_patientData.to_csv('E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\kaggle_Data\\processed_data_blood_pressure_updated.csv')

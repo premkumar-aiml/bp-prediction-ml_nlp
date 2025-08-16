@@ -77,7 +77,21 @@ def search_documents(query, doc_chunks, doc_embeddings, top_k=1):
 
 def get_first_sentences(text, max_sentences=1):
     sentences = re.split(r'(?<=[.!?])\s+', text.strip())
-    return ' '.join(sentences[:max_sentences])
+    selected = sentences[:max_sentences]
+
+# Clean and capitalize each sentence
+    cleaned = []
+    for s in selected:
+        s = s.strip()
+        if not s:
+            continue
+        s = s[0].upper() + s[1:]  # Capitalize first char
+        if not s.endswith(('.', '!', '?', ',')):
+            s += '.'
+        cleaned.append(s)
+    return " ".join(cleaned)
+
+# return ' '.join(sentences[:max_sentences])
 
 def retrieve_relevant_passages(diastolic_bp,age, gender, doc_chunks, doc_embeddings, top_k=1):
     bp_category = get_bp_category(diastolic_bp)

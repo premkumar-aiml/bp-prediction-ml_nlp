@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 # Load data
 print("Started training the model please wait. It will take few seconds")
-processed_patient_Data = pd.read_csv('E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\kaggle_Data\\processed_data_blood_pressure.csv')
+processed_patient_Data = pd.read_csv('E:\\BITS_Masters_In_DataScience\\Dissertation\\Practice\\kaggle_Data\\processed_data_blood_pressure_updated.csv')
 
 # Split features and target
 X = processed_patient_Data.drop(['diaBP'], axis=1)
